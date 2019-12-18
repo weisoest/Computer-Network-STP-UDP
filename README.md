@@ -7,7 +7,7 @@ Instructions to run the program
 3. Run Sender using command "java Sender receiver_host_ip receiver_port file.pdf MWS MSS gamma pDrop
    pDuplicate pCorrupt pOrder maxOrder pDelay maxDelay seed" where the parameters are the sliding window size, Maximum segment size and        probability of exception during the transmission.
 4. Run Receiver using "java Receiver receiver_port file_r.pdf"
-5. After file transmission is done the log files will be generated automatically under the target directory.
+5. After file transmission is done the log files will be generated automatically under the target directory for further analysis.
 
 The proj1 folder includes the source codes and the report for the project.
 And the project spec is located under the root of project directory.
