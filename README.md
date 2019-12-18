@@ -1,5 +1,5 @@
-# Computer-Network-TCP-Communications
-A system to implement the TCP connection and transmission, TCP is a reliable transmission which has the mechanism of re-transmission due to timeout and error detection. The system also has a module to simulate the package drop and delay as well as bit flip during the transmission. A report is to reflect the reliability of the TCP transmission.
+# Computer-Network-STP-UDP
+A system to implement the STP over UDP, which is a reliable transmission including most features of TCP e.g. the mechanism of re-transmission due to timeout and error detection etc. The system also has a module to simulate the package drop and delay as well as bit flip during the transmission. A report is to reflect the reliability of the implemented STP over UDP.
 
 Instructions to run the program
 1. Ensure the JRE and JDK are available on the target computer.
