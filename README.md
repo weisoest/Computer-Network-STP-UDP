@@ -11,3 +11,4 @@ Instructions to run the program
 
 The proj1 folder includes the source codes and the report for the project.
 And the project spec is located under the root of project directory.
+A referenced textbook that regards to TCP implementation attached to this academic project.
